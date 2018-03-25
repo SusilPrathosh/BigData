@@ -1,0 +1,138 @@
+Date: 25/03/2018
+
+Int type
+
+package niit;
+import java.util.Scanner;
+public class Niit{
+    public static void main(String[] args) {
+        int a;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter");
+        a=sc.nextInt();
+        System.out.println(a);
+        // TODO code application logic here
+    }
+    
+}
+-----------------------------------------------------------
+Byte type
+
+package niit;
+import java.util.Scanner;
+public class NiitByte {
+    public static void main(String[] args) {
+        byte a;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter");
+        a=sc.nextByte();
+        System.out.println(a);
+        // TODO code application logic here
+    }
+    
+}
+
+    
+}
+
+--------------------------------------------------------
+Char  type
+package niit;
+import java.util.Scanner;
+public class NiitChar {
+     public static void main(String[] args) {
+        char a;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter");
+        a=sc.next.charAt(position);
+        System.out.println(a);
+     }
+        // T
+    
+}
+
+-----------------------------------------------------
+Short type
+package niit;
+
+import java.util.Scanner;
+public class NiitShort
+ { public static void main(String[] args)
+ {
+        short a;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter");
+        a=sc.nextShort()a;
+        System.out.println(a);
+     }
+    
+}
+--------------------------------------------------------
+Long type
+package niit;
+
+import java.util.Scanner;
+public class NiitLong 
+{ public static void main(String[] args)
+ {
+        long a;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter");
+        a=sc.nextLong();
+        System.out.println(a);
+     }
+    
+}
+---------------------------------------------------------
+Float type
+package niit;
+
+import java.util.Scanner;
+public class NiitFloat
+{ public static void main(String[] args)
+{
+        float d;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter");
+        d=sc.nextFloat();
+        System.out.println(d);
+     }
+    
+}
+--------------------------------------------------------
+Double type
+package niit;
+import java.util.Scanner;
+public class NiitDouble 
+{ public static void main(String[] args) 
+{
+        double a;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter");
+        a=sc.nextDouble();
+        System.out.println(a);
+     }
+    
+}
+
+--------------------------------------------------------
+Boolean type
+package niit;
+
+import java.util.Scanner;
+public class NiitBoolean {
+     public static void main(String[] args) 
+{
+        boolean a;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter");
+        a=sc.nextBoolean();
+        System.out.println(a);
+     }
+    
+}
+
+
+
+
+
